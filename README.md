@@ -1,8 +1,8 @@
 
 Copmuter Science student and lifelong gamer~
 
-Discord: @ahrose
+- Discord: @ahrose
 
-Twitter: @AhRoseLive
+- Twitter: @AhRoseLive
 
-Website: https://euphratesgilpin.github.io/
+- Website: https://euphratesgilpin.github.io/
